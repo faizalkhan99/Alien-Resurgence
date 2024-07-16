@@ -30,5 +30,25 @@ MonoBehaviour:
     value: "\u201CIWhat is this place? Who built all this and is that a gate? I gotta
       find out..\u201D"
   - key: INFOPOST6
-    value: '"Hmmm another dead person. Ohh!! he had a gun. I could use that. Press
+    value: '"Hmmm another dead person. Ohh!! he had a GUN. I might me lucky. Press
       [O] to shoot."'
+  - key: INFOPOST7
+    value: '"What in the zero gravity is this place?"'
+  - key: INFOPOST8
+    value: '"I think I need another weapon to fight these goo spitting aliets. A
+      gun maybe? I should explore more."'
+  - key: INFOPOST9
+    value: '"I ain''t dying in this ditch. Look for a way to get back up. Maybe a
+      lift?"'
+  - key: INFOPOST10
+    value: '"I am not going back down at any cost."'
+  - key: INFOPOST11
+    value: '"I hate spikes."'
+  - key: INFOPOST12
+    value: '"Who is even protecting these keys? and why?"'
+  - key: INFOPOST13
+    value: '"Freaking Finally!!! Let''s get the hell outta here now."'
+  - key: INFOPOST14
+    value: '"I have a bad feeling about this."'
+  - key: INFOPOST15
+    value: '"That was a tough one. I am finally out."'
