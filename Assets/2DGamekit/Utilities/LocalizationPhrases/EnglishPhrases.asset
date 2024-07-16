@@ -27,16 +27,16 @@ MonoBehaviour:
   - key: INFOPOST4
     value: "\u201CI should definitely explore this wierd planet.\u201D"
   - key: INFOPOST5
-    value: "\u201CIWhat is this place? Who built all this and is that a gate? I gotta
-      find out..\u201D"
+    value: "\u201CWhat is this place? Who built all this and what is that huge gate
+      is doing here? I gotta find out.\u201D"
   - key: INFOPOST6
-    value: '"Hmmm another dead person. Ohh!! he had a GUN. I might me lucky. Press
+    value: '"Hmmm another dead person. Ohh!! he had a GUN. I might be lucky. Press
       [O] to shoot."'
   - key: INFOPOST7
     value: '"What in the zero gravity is this place?"'
   - key: INFOPOST8
-    value: '"I think I need another weapon to fight these goo spitting aliets. A
-      gun maybe? I should explore more."'
+    value: '"I think I need another weapon to fight these goo spitting aliens. A
+      gun maybe? I should explore the other side as well."'
   - key: INFOPOST9
     value: '"I ain''t dying in this ditch. Look for a way to get back up. Maybe a
       lift?"'
